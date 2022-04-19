@@ -1,0 +1,22 @@
+.table-moda-titulo {
+    background-color: #BB86FC;
+    color: #fff;
+}
+.table-moda-produtos {
+    background-color: #424250;
+    color: #fff;
+}
+th, td {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.table-casa-titulo {
+    background-color: #00C4B4;
+    color: #fff;
+}
+
+.table-casa-produtos {
+    background-color: #424250;
+    color: #fff;
+}
